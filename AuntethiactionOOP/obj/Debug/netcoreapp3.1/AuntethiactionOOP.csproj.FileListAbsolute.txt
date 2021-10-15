@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\bin\Debug\netcoreapp3.1\AuntethiactionOOP.exe
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\bin\Debug\netcoreapp3.1\AuntethiactionOOP.deps.json
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\bin\Debug\netcoreapp3.1\AuntethiactionOOP.runtimeconfig.json
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\bin\Debug\netcoreapp3.1\AuntethiactionOOP.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\bin\Debug\netcoreapp3.1\AuntethiactionOOP.dll
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\bin\Debug\netcoreapp3.1\AuntethiactionOOP.pdb
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\obj\Debug\netcoreapp3.1\AuntethiactionOOP.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\obj\Debug\netcoreapp3.1\AuntethiactionOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\obj\Debug\netcoreapp3.1\AuntethiactionOOP.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\obj\Debug\netcoreapp3.1\AuntethiactionOOP.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\obj\Debug\netcoreapp3.1\AuntethiactionOOP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\obj\Debug\netcoreapp3.1\AuntethiactionOOP.dll
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\obj\Debug\netcoreapp3.1\AuntethiactionOOP.pdb
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\obj\Debug\netcoreapp3.1\AuntethiactionOOP.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AuntethiactionOOP\AuntethiactionOOP\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
