@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\AuntethiactionOOP\\AuntethiactionOOP\\AuntethiactionOOP.csproj": {}
+    "E:\\MCC\\Project Tugas\\Authentication-OOP\\AuntethiactionOOP\\AuntethiactionOOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\AuntethiactionOOP\\AuntethiactionOOP\\AuntethiactionOOP.csproj": {
+    "E:\\MCC\\Project Tugas\\Authentication-OOP\\AuntethiactionOOP\\AuntethiactionOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\AuntethiactionOOP\\AuntethiactionOOP\\AuntethiactionOOP.csproj",
+        "projectUniqueName": "E:\\MCC\\Project Tugas\\Authentication-OOP\\AuntethiactionOOP\\AuntethiactionOOP.csproj",
         "projectName": "AuntethiactionOOP",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\AuntethiactionOOP\\AuntethiactionOOP\\AuntethiactionOOP.csproj",
+        "projectPath": "E:\\MCC\\Project Tugas\\Authentication-OOP\\AuntethiactionOOP\\AuntethiactionOOP.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\AuntethiactionOOP\\AuntethiactionOOP\\obj\\",
+        "outputPath": "E:\\MCC\\Project Tugas\\Authentication-OOP\\AuntethiactionOOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

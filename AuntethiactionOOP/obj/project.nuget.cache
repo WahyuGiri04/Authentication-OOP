@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Np/PPF2tmPo5STHHA/tB98C0HzkN6DJju688zoHCnJJ3bATmc8Cgn2cZ1xzwjyvl/TgXLN4OIhIDy1vjgFNljQ==",
+  "dgSpecHash": "qT8aCokCp9gDX+pWBJ4JMouayCESaLX/iC8cl+w9ZSOkzBNqeXAHDUi59XXwuPilrHEpZ84Mn7B5h2vQn0DtGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\AuntethiactionOOP\\AuntethiactionOOP\\AuntethiactionOOP.csproj",
+  "projectFilePath": "E:\\MCC\\Project Tugas\\Authentication-OOP\\AuntethiactionOOP\\AuntethiactionOOP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
   ],
